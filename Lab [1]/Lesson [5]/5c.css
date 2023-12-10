@@ -1,0 +1,19 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    margin-bottom: 1px;
+    padding: 0px;
+}
+#sub{
+    color: grey;
+    font-weight: 500;
+}
+button{
+    padding: 10px 15px 10px 15px;
+    background-color: rgb(4, 99, 4);
+    color: white ;
+    border: none;
+    border-radius: 10px;
+
+}

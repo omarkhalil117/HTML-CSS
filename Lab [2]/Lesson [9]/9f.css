@@ -1,0 +1,40 @@
+*{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+div{
+    width: 200px;
+    height: 320px;
+    box-shadow: 0 0 3px gray;
+    padding-right:0; 
+}
+h3, #btn, p{
+    margin-left: 10px ;
+}
+#img1{
+    width: 200px;
+    height: 200px;
+    display: inline;
+    vertical-align: middle;
+    object-fit: fill;
+    
+}
+p{
+    margin-top: 10px;
+    color: grey;
+}
+#btn {
+    
+    display: inline;
+    padding: 8px 20px 8px 20px;
+    background-color: rgb(44, 54, 163);
+    color:white;
+    font-weight: bold;
+    border: none;
+    border-radius: 20px;
+    font-size: 12px;
+    vertical-align: middle;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+  }
