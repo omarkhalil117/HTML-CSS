@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding: 0;
+}
+div{
+  display: grid;
+  height: 20px;
+  grid-template-columns: 200px 75px;
+}
+
+#d1{
+  background-color: antiquewhite;
+}
+
+#d2{
+  background-color: coral;
+}

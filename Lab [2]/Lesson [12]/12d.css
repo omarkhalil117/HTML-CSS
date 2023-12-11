@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+.container{
+  display: flex;
+  height: 20px;
+  flex-direction: row;
+  justify-content: space-between ;
+  align-items: center;
+  height: 50px;
+  border: 1px solid black;
+}
+
+
+
+.d1 {
+  width: 50px;
+  background-color: antiquewhite;
+}

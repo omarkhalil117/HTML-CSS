@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container
+{
+    display: flex;
+}
+
+#el1 , #el2
+{
+    height: 30px;
+}
+
+#el1
+{
+    width: 200px;
+    background-color: antiquewhite;
+}
+
+#el2
+{
+    width: 75px;
+    background-color: burlywood;
+}

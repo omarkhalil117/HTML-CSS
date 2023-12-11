@@ -1,0 +1,38 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.d1{
+    display: flex;
+}
+
+img{
+   
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 50%;
+}
+
+p{
+   color: grey;
+   margin-left: 30px;
+}
+
+.bold{
+    font-weight: bold;
+    color: black;
+}
+button{
+
+    width: 70px;
+    height: 40px;
+    margin-left:150px;
+    margin-top: 40px;
+    background-color: rgb(5, 101, 244);
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+}
