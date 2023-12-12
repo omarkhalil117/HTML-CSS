@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    height: 50000px;
+}
+p{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}

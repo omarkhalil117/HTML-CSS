@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.el1{
+    width: 100px;
+    background-color: green;
+    position: fixed;
+    top:0;
+    right:0;
+    bottom: 0;
+}
+p{
+    color: white;
+    font-weight: bold;
+}

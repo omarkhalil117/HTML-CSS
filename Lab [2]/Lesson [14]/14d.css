@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.el1{
+    width: 100px;
+    background-color: green;
+    position: fixed;
+    top:0;
+    right:0;
+    bottom: 0;
+}
+.el2
+{
+    display: flex;
+    background-color: rgba(0 , 0 , 0 , 0.8);
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    justify-content: center;
+    align-items: center;
+}
+.overlay{
+    background-color: white;
+    padding:20px;
+    border-radius: 5px;
+    width: 400px;
+    height: 100px;
+}
+.p1{
+    color: white;
+    font-weight: bold;
+}
+
+.p2
+{
+    padding: 10px 0 10px 0;
+}
